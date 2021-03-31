@@ -10,6 +10,7 @@ __all__ = [
     'search_nodes',
     'search_edges',
     'search_direct_relationships',
+    'join_relationship',
     'prepare_query',
     'ParserException',
     'Evaluator',
